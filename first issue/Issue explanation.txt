@@ -1,0 +1,8 @@
+Hi,
+I've got this file called welcome.blade.php
+
+when i use the for each to display categories, it'll display double the normal number.
+Here i have just two categories, but it'll display it twice making it 4. 
+Please help me find what my issues is, I appreciate it.
+I'm just a beginner.
+The images and code are part of this directory. Thanks
